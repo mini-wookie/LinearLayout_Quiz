@@ -1,0 +1,2 @@
+rootProject.name='김민욱_LinearQuiz'
+include ':app'
